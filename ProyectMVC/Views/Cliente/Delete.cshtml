@@ -1,0 +1,51 @@
+@model ProyectMVC.Models.ClienteModel
+@{
+    Layout = "_Layout";
+}
+
+
+<h2>Borrar</h2>
+
+<h3>Seguro que quieres eliminar este cliente:</h3>
+<div>
+    <h4>ClienteModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Juridica)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Juridica)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Sector)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Sector.Nombre)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

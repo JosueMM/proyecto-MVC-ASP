@@ -1,0 +1,22 @@
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.AssemblyInfoInputs.cache
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.AssemblyInfo.cs
+C:\Users\Usuario\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.deps.json
+C:\Users\Usuario\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.runtimeconfig.json
+C:\Users\Usuario\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.runtimeconfig.dev.json
+C:\Users\Usuario\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.dll
+C:\Users\Usuario\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.pdb
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.dll
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.pdb
+C:\Users\Usuario\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.deps.json
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.runtimeconfig.json
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.dll
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\bin\Debug\netcoreapp2.0\ProyectMVC.pdb
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.dll
+C:\Users\Usuario\Desktop\New folder\proyecto-MVC-ASP\ProyectMVC\obj\Debug\netcoreapp2.0\ProyectMVC.pdb

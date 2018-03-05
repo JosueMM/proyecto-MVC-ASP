@@ -1,0 +1,60 @@
+@model IEnumerable<ProyectMVC.Models.ClienteModel>
+
+@{
+    Layout = "_Layout";
+}
+
+
+<h2>Tabla de Clientes</h2>
+
+<p>
+    <a asp-action="Create">Crear un nuevo cliente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Juridica)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Direccion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Numero)
+                </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sector)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Juridica)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sector.Nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">&#9998;</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">&#128712;</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">&#10006;</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
